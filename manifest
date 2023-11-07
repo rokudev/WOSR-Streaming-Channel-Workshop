@@ -1,0 +1,16 @@
+# Copyright (c) 2020 Roku, Inc. All rights reserved.
+
+# Channel Details
+title=WOSR Streaming Channel Workshop
+major_version=1
+minor_version=0
+build_version=1
+
+# Channel Title Tile
+mm_icon_focus_hd=pkg:/images/WOSR-Roku-title-tile.png
+
+# Splash Screen
+splash_screen_hd=pkg:/images/WOSR-Roku-splash-screen.png
+
+# Resolution
+ui_resolutions=hd
